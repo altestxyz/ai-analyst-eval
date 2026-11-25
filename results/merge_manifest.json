@@ -1,0 +1,90 @@
+{
+  "input_folder": "plan_final",
+  "prefer_on_conflict": "first",
+  "sources": [
+    {
+      "file": "local-runs.jsonl.jsonl",
+      "sha256": "dc4ecc2656fb561f4d4fa882d02e783a24c013426b09ecb2df6bd7370160c99e",
+      "records": 1500,
+      "new_unique": 1500,
+      "identical_duplicates": 0,
+      "conflicting_duplicates": 0
+    },
+    {
+      "file": "local-runs.jsonl1.jsonl",
+      "sha256": "dc4ecc2656fb561f4d4fa882d02e783a24c013426b09ecb2df6bd7370160c99e",
+      "records": 1500,
+      "new_unique": 0,
+      "identical_duplicates": 1500,
+      "conflicting_duplicates": 0
+    },
+    {
+      "file": "local-runs2.jsonl.jsonl",
+      "sha256": "30e9caf00503ae80f73c802c6bef32517ae8b0e2599fdcace5e7ce160aab2c3b",
+      "records": 1733,
+      "new_unique": 1733,
+      "identical_duplicates": 0,
+      "conflicting_duplicates": 0
+    },
+    {
+      "file": "run0frontier-runs.jsonl.jsonl",
+      "sha256": "e9479267067e9c78049b4b25bd2b1d50542db01a15621d9a8a7cc5c572015159",
+      "records": 809,
+      "new_unique": 0,
+      "identical_duplicates": 809,
+      "conflicting_duplicates": 0
+    },
+    {
+      "file": "run1frontier-runs.jsonl.jsonl",
+      "sha256": "3433bc6fb6baf7f0c5ecd51b4abe3843a60d71dd506a04260c811e87523ca236",
+      "records": 1100,
+      "new_unique": 291,
+      "identical_duplicates": 809,
+      "conflicting_duplicates": 0
+    },
+    {
+      "file": "run3frontier-runs.jsonl",
+      "sha256": "3433bc6fb6baf7f0c5ecd51b4abe3843a60d71dd506a04260c811e87523ca236",
+      "records": 1100,
+      "new_unique": 0,
+      "identical_duplicates": 1100,
+      "conflicting_duplicates": 0
+    }
+  ],
+  "unique_runs": 3524,
+  "records_read": 7742,
+  "identical_duplicates": 4218,
+  "conflicts": 0,
+  "conflict_examples": [],
+  "runs_by_model": {
+    "F1": 380,
+    "F2": 342,
+    "F3": 378,
+    "M1": 1212,
+    "M2": 1212
+  },
+  "questions_by_model_context": {
+    "F1|L1": 127,
+    "F1|L2": 127,
+    "F1|L3": 126,
+    "F2|L1": 114,
+    "F2|L2": 114,
+    "F2|L3": 114,
+    "F3|L1": 126,
+    "F3|L2": 126,
+    "F3|L3": 126,
+    "M1|L1": 202,
+    "M1|L2": 202,
+    "M1|L3": 202,
+    "M2|L1": 202,
+    "M2|L2": 202,
+    "M2|L3": 202
+  },
+  "plan_fingerprints": {},
+  "plan_consistent": true,
+  "output": {
+    "file": "runs.jsonl",
+    "sha256": "e14d8100898f72a0935aa4665887559e6190bf72a62b7c005f1d212ef2f9593f",
+    "lines": 3524
+  }
+}

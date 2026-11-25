@@ -1,0 +1,115 @@
+# Model registry. Every model the study uses is listed here, keyed by a short name.
+#
+#   M1, M1L, M2, JUDGE  run locally through Ollama (provider: ollama). num_ctx is the context window in tokens.
+#   F1, F2, F3          frontier models (provider: hosted). Each has two routes and AAE_ROUTE picks one:
+#                         kproxy  the Kaggle model proxy. `id` is the proxy's own model identifier, the one the published runs used.
+#                                 Needs MODEL_PROXY_URL and MODEL_PROXY_API_KEY, which Kaggle supplies inside a benchmark-task notebook.
+#                         direct  the vendor's own OpenAI-compatible endpoint. `base_url` is that endpoint, `id` is the vendor's model
+#                                 name, and the key is read from the environment variable named in `api_key_env`.
+#                       AAE_ROUTE=auto uses kproxy when both proxy variables are set and direct otherwise.
+#
+# The direct ids and base URLs are the first thing to check if a call fails. A 404 or "model not found" error means an id or a base URL
+# is out of date for your account. Vendors rename models and restrict early access, so confirm against the vendor's current model list.
+#
+# Prices are US dollars per million tokens, list price on the `pinned` date. Cost in the results is recomputed from logged tokens at
+# these prices. Gemini's price doubles on 2026-12-01, so update price_in and price_out before a run after that date.
+#
+# rpm            calls per minute allowed for one model (the runner paces itself to stay under it).
+# max_output_tokens
+#                reply cap in tokens. A reply cut off at the cap is retried once at 4096. The cap is logged per run and is not part of
+#                the plan hash. Leave it out to use 4096.
+# reasoning      optional (low, medium or high), sent as reasoning_effort. Left out, each vendor's default applies, and the defaults
+#                differ, so results across vendors are not a ranking of the vendors.
+
+M1:
+  provider: ollama
+  price_in: 0
+  price_out: 0
+  pinned: '2026-11-18'
+  id: qwen2.5-coder:7b
+  num_ctx: 16384
+  label: Qwen2.5-Coder 7B
+
+# Same weights as M1 with a 32,768-token window, used only for the scale test.
+M1L:
+  provider: ollama
+  price_in: 0
+  price_out: 0
+  pinned: '2026-11-18'
+  id: qwen2.5-coder:7b
+  num_ctx: 32768
+  label: Qwen2.5-Coder 7B (2x context)
+
+M2:
+  provider: ollama
+  price_in: 0
+  price_out: 0
+  pinned: '2026-11-18'
+  id: qwen2.5-coder:14b
+  num_ctx: 16384
+  label: Qwen2.5-Coder 14B
+
+# F1 also drafts the L3 context (join rules and metric definitions) from the schema and descriptions.
+F1:
+  provider: hosted
+  label: Claude Opus 5.5
+  rpm: 6
+  price_in: 4.0
+  price_out: 20.0
+  price_cache_read: 0.2
+  max_output_tokens: 1024
+  pinned: '2026-11-18'
+  routes:
+    kproxy:
+      id: anthropic/claude-opus-5-5@default
+    direct:
+      # Anthropic's OpenAI-compatible endpoint.
+      id: claude-opus-5-5
+      base_url: https://api.anthropic.com/v1/
+      api_key_env: ANTHROPIC_API_KEY
+
+F2:
+  provider: hosted
+  label: Gemini 4 Argon
+  rpm: 6
+  price_in: 2.0
+  price_out: 10.0
+  price_cache_read: 0.1
+  pinned: '2026-11-18'
+  routes:
+    kproxy:
+      id: google/gemini-4-argon
+    direct:
+      # Google's OpenAI-compatibility endpoint for the Gemini API (documented at ai.google.dev/api/compatibility).
+      # The model id below matches third-party listings but was not confirmed against Google's own model list; check it first.
+      id: gemini-4-argon
+      base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+      api_key_env: GEMINI_API_KEY
+
+F3:
+  provider: hosted
+  label: GPT-5.6 Terra
+  rpm: 6
+  price_in: 2.0
+  price_out: 12.0
+  price_cache_read: 0.2
+  max_output_tokens: 1024
+  pinned: '2026-11-18'
+  routes:
+    kproxy:
+      id: openai/gpt-5.6-terra
+    direct:
+      # OpenAI's API. gpt-5.6-terra is the model id on OpenAI's model page.
+      id: gpt-5.6-terra
+      base_url: https://api.openai.com/v1/
+      api_key_env: OPENAI_API_KEY
+
+# Failure-cause judge. Needs a GPU, so it is only run alongside the local models.
+JUDGE:
+  provider: ollama
+  price_in: 0
+  price_out: 0
+  pinned: '2026-11-18'
+  id: qwen2.5:7b
+  num_ctx: 8192
+  label: Judge (Qwen2.5 7B)

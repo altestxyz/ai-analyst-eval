@@ -1,0 +1,23 @@
+{
+  "rescored_runs": 2583,
+  "strict_agree": 2564,
+  "strict_agreement_pct": 99.26,
+  "status_counts": {
+    "frontier|no_db": 131,
+    "frontier|no_gold": 42,
+    "frontier|no_sql": 100,
+    "frontier|ok": 826,
+    "frontier|sql_error": 1,
+    "local|no_db": 358,
+    "local|no_gold": 216,
+    "local|no_sql": 60,
+    "local|ok": 1757,
+    "local|sql_error": 33
+  },
+  "lenient_only_right": 137,
+  "disagreements_by_model": {
+    "F2": 1,
+    "M1": 5,
+    "M2": 13
+  }
+}

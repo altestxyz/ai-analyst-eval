@@ -1,0 +1,1216 @@
+{
+ "questions": [
+  {
+   "id": "340",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "341",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "344",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "345",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "346",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "347",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "349",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "356",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "358",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "366",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "371",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "377",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "379",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "391",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "402",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "407",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "409",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "412",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "415",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "416",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "424",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "simple"
+  },
+  {
+   "id": "459",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "462",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "465",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "468",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "469",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "472",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "473",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "474",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "477",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "479",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "480",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "483",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "486",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "487",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "522",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "528",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "530",
+   "part": "bird",
+   "db": "card_games",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1025",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1029",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1030",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1032",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1037",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1042",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1044",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1057",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1058",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1079",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1080",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1088",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1091",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1092",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1094",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1096",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1098",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1102",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1103",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1105",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1107",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1110",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1113",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1114",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1115",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1116",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1122",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1124",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1130",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1133",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1134",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1135",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1136",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1139",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1141",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1146",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1147",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "simple"
+  },
+  {
+   "id": "1148",
+   "part": "bird",
+   "db": "european_football_2",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1001",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "1002",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1003",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "1014",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "846",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "850",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "862",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "865",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "866",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "868",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "869",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "877",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "879",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "880",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "881",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "892",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "894",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "895",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "896",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "897",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "906",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "909",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "910",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "912",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "928",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "930",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "931",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "933",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "940",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "944",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "950",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "954",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "955",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "977",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "simple"
+  },
+  {
+   "id": "981",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "989",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "990",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "994",
+   "part": "bird",
+   "db": "formula_1",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "717",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "723",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "724",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "726",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "728",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "730",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "732",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "736",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "737",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "739",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "740",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "743",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "744",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "745",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "751",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "753",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "761",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "765",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "766",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "769",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "772",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "773",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "775",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "781",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "785",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "786",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "790",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "791",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "794",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "796",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "797",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "798",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "801",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "806",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "simple"
+  },
+  {
+   "id": "819",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "822",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "825",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "829",
+   "part": "bird",
+   "db": "superhero",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-01",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-02",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-03",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-04",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-05",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-06",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-07",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-08",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-09",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-10",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "simple"
+  },
+  {
+   "id": "taxi-11",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-12",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-13",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-14",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-15",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-16",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-17",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-18",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-19",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-20",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-21",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-22",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-23",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-24",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-25",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-26",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-27",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-28",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-29",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-30",
+   "part": "taxi",
+   "db": "nyc_taxi",
+   "difficulty": "challenging"
+  },
+  {
+   "id": "taxi-amb-01",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-02",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-03",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-04",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-05",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-06",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-07",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-08",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-09",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-10",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-11",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-12",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-13",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-14",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-15",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-16",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-17",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-18",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-19",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  },
+  {
+   "id": "taxi-amb-20",
+   "part": "ambiguous",
+   "db": "nyc_taxi",
+   "difficulty": "moderate"
+  }
+ ]
+}
