@@ -149,6 +149,23 @@ make verify
 
 To go back one step, put the raw run logs in a folder and run `make merge`, `make rescore` and `make table`. Rescoring needs the DuckDB copies and the answer keys, so it needs BIRD Mini-Dev and `make setup`.
 
+## Clean up
+
+To remove the downloaded repository and everything `make install` put in its virtual environment, run this from the repository folder:
+
+```
+deactivate
+cd ..
+rm -rf ai-analyst-eval
+```
+
+This permanently deletes the folder, including any `.env`, data, run logs or edits inside it. Copy anything you want to keep first.
+
+This covers the setup in "Reproduce the results". It doesn't remove Python, pip's download cache, Ollama or its pulled models, or data you stored outside the folder through BIRD_DIR or AAE_DATA. To remove the two small models too:
+```
+ollama rm qwen2.5-coder:7b qwen2.5-coder:14b
+```
+
 ## Not published
 
 - The raw run logs, which contain model-generated SQL.
